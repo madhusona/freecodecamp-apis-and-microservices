@@ -1,1 +1,11 @@
-"author": "Madusudhanan",
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "first nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madusudhanan",
+  "license": "ISC"
+}
